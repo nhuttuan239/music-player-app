@@ -41,7 +41,7 @@ body {
   border-radius: 0px 0px 0px 0px;
 }
 
-.header marquee {
+.header .song {
   color: #f6d30a;
   font-weight: 400;
   letter-spacing: 2px;
